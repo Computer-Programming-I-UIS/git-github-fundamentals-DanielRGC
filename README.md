@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: Daniel test
 
 ## 🤓 Course overview and learning outcomes 
 
